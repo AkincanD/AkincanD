@@ -23,7 +23,7 @@
 <a href="https://www.laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
 <a href="https://visualstudio.microsoft.com" title="Charp"><img src="icons/csharp.png" /></a>
 <a href="https://visualstudio.microsoft.com" title="Vbnet"><img src="icons/vbnet.png" /></a>
-<a href="https://visualstudio.microsoft.com" title="C++"><img src="icons/cplusplus.png" /></a>
+<a href="https://visualstudio.microsoft.com" title="C++"><img src="icons/cplusplus.png" width="28px" /></a>
 <a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
