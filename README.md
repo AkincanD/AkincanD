@@ -13,9 +13,6 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
-![](https://komarev.com/ghpvc/?username=AkincanD&color=green)
-
-
 **Currently working with:**
 
 <a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
@@ -42,4 +39,9 @@
 <a href="https://go.dev/" title="Good but i hate"><img src="icons/golang.png" /></a>
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
 
+<br />  
+<br />
+  
+![](https://komarev.com/ghpvc/?username=AkincanD&style=flat-square)
+  
 </div>
