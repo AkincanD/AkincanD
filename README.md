@@ -34,6 +34,7 @@
 <a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.angular.io/" title="TypeScript"><img src="icons/angular.png" /></a>
+<a href="https://nodejs.org" title="NodeJS"><img src="icons/nodejs.png" width="28px"/></a>
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
