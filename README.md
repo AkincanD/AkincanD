@@ -44,4 +44,7 @@
   
 [![Awesome](https://awesome.re/badge.svg)](https://akincandemirel.com.tr) ![](https://komarev.com/ghpvc/?username=AkincanD&style=flat-square)
   
+<br />  
+<br />
+<b>Herkese Günaydın, sana Good Morning. Sen de artık yabancısın.</b>
 </div>
