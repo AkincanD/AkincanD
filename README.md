@@ -15,7 +15,6 @@
 
 **Currently working with:**
 
-<a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://www.laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
 <a href="https://visualstudio.microsoft.com" title="Charp"><img src="icons/csharp.png" /></a>
