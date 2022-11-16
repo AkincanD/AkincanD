@@ -47,4 +47,6 @@
 <br />  
 <br />
 <b>Herkese Günaydın, sana Good Morning. Sen de artık yabancısın.</b>
+<br>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/AkincanD/AkincanD/blob/main/icons/akincandemirel.gif?raw=true" />
 </div>
