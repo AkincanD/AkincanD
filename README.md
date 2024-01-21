@@ -196,14 +196,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AkincanD/AkincanD/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
-  <a href="https://open.spotify.com/user/akincand">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=akincand&count=1" alt="Spotify recently played"  />
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=akincand&count=1" alt="Spotify recently played"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" />
 </div>
 
 ###
