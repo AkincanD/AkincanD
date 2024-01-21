@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="160" src="https://github.com/AkincanD/AkincanD/raw/main/welcome.png?raw=true"  />
+  <img height="160" src="https://github.com/AkincanD/AkincanD/raw/main/images/welcome.png?raw=true"  />
 </div>
 
 ###
@@ -209,7 +209,7 @@
 ###
 
 <div align="center">
-  <img height="160" src="https://raw.githubusercontent.com/AkincanD/AkincanD/main/icons/akincandemirel.gif"  />
+  <img height="160" src="https://raw.githubusercontent.com/AkincanD/AkincanD/main/images/akincandemirel.gif"  />
 </div>
 
 ###
