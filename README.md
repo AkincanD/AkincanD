@@ -1,52 +1,217 @@
-<!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/AkincanD/AkincanD/blob/main/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-
+  <img height="160" src="https://github.com/AkincanD/AkincanD/raw/main/welcome.png?raw=true"  />
 </div>
 
-<!-- Footer -->
+###
+
+<h3 align="center">Coding Languages</h3>
+
+###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wasm" height="40" alt="webassembly logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+</div>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+###
 
-**Currently working with:**
+<h3 align="center">Front-End Technologies</h3>
 
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://www.laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
-<a href="https://visualstudio.microsoft.com" title="Charp"><img src="icons/csharp.png" /></a>
-<a href="https://visualstudio.microsoft.com" title="Vbnet"><img src="icons/vbnet.png" /></a>
-<a href="https://visualstudio.microsoft.com" title="C++"><img src="icons/cplusplus.png" width="28px" /></a>
-<a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
-<a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
-<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.angular.io/" title="TypeScript"><img src="icons/angular.png" /></a>
-<a href="https://nodejs.org" title="NodeJS"><img src="icons/nodejs.png" width="32px"/></a>
-<a href="https://reactjs.org" title="React"><img src="icons/react.png" width="32px"/></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://go.dev/" title="Good but i hate"><img src="icons/golang.png" /></a>
-<a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
+###
 
-<br />  
-<br />
-  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify logo"  />
+</div>
+
+###
+
+<h3 align="center">Frameworks</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cakephp/D33C43" height="40" alt="cakephp logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="40" alt="codeigniter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/zend/0679EA" height="40" alt="zend logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" height="40" alt="yii logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/backbonedotjs/0071B5" height="40" alt="backbonejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/svelte/FF3E00" height="40" alt="svelte logo"  />
+</div>
+
+###
+
+<h3 align="center">Database Technologies</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cassandra" height="40" alt="apachecassandra logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="40" alt="neo4j logo"  />
+</div>
+
+###
+
+<h3 align="center">DevOps Technologies</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bsd" height="40" alt="freebsd logo"  />
+</div>
+
+###
+
+<h3 align="center">I Look Once in a while</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=perl" height="40" alt="perl logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/AkincanD/AkincanD/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/akincand">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=akincand&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="160" src="https://raw.githubusercontent.com/AkincanD/AkincanD/main/icons/akincandemirel.gif"  />
+</div>
+
+###
+
 [![Awesome](https://awesome.re/badge.svg)](https://akincandemirel.com.tr) ![](https://komarev.com/ghpvc/?username=AkincanD&style=flat-square)
-  
-<br />  
-<br />
-<b>Herkese Günaydın, sana Good Morning. Sen de artık yabancısın.</b>
-<br>
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/AkincanD/AkincanD/blob/main/icons/akincandemirel.gif?raw=true" />
-</div>
