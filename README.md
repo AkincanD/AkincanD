@@ -76,6 +76,17 @@
 
 ###
 
+<h3 align="center">Mobile Technologies</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  />
+  <img src="https://raw.githubusercontent.com/AkincanD/AkincanD/eb8ad1236a7016b669497bf7fde5da815cc59403/images/sdk-react-native.svg" height="40" alt="React Native"  />
+</div>
+
+###
+
 <h3 align="center">Frameworks</h3>
 
 ###
