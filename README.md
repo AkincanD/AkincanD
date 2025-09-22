@@ -219,4 +219,6 @@
 
 ###
 
+<div align="center">
 [![Awesome](https://awesome.re/badge.svg)](https://akincandemirel.com.tr) ![](https://komarev.com/ghpvc/?username=AkincanD&style=flat-square)
+</div>
